@@ -1,0 +1,6 @@
+DAO 클래스 : DB와 관련된 CRUD 작업을 처리한다. Service 클래스들은 데이터를 DB에서 읽어오거나 DB에 데이터를 저장할 때 DAO 클래스를 사용한다.
+
+스프링에서는 어셈블러 사용 x
+
+기존 자바에서 사용한 DAO방식 MainClassUseXMLs 파일 참고
+스프링에서의 DAO방식 MainClassUseXML 파일 참고 -> 어셈블러를 사용하지 않기에 주석처리

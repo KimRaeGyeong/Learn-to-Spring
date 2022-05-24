@@ -1,0 +1,2 @@
+src/main/resources/applicationContext/xml의 bean 태그를 이용한다면
+new를 사용한 객체 생성이 필요없어짐
